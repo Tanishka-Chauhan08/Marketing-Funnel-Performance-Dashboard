@@ -48,8 +48,4 @@ The dashboard was built using the following tools and technologies:
 
 ## Screenshot
 
-<img width="1295" height="729" alt="Marketing Funnel Performance Dashboard" src="https://github.com/user-attachments/assets/c08d11c2-4d44-4a1a-a30d-a7e6ba2fa4c4" />
-
-
-<img width="1301" height="739" alt="Marketing Campaign   Funnel Analysis" src="https://github.com/user-attachments/assets/b95afff2-0e45-4b66-a107-6c28faf73db9" />
-
+<img width="1295" height="731" alt="Marketing Funnel Performance Dashboard" src="https://github.com/user-attachments/assets/7b74d162-33fa-4949-a1df-924355761e24" />
